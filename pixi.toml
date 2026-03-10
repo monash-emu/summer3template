@@ -1,0 +1,10 @@
+[workspace]
+channels = ["conda-forge"]
+name = "summer3template"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.13.*"
